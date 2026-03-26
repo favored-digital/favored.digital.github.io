@@ -36,22 +36,6 @@ export function Hero() {
                 <Link href="#services">View Services</Link>
               </Button>
             </div>
-
-            {/* Stats */}
-            <div className="flex gap-8 pt-4">
-              <div>
-                <p className="text-3xl font-serif font-medium text-primary">7+</p>
-                <p className="text-sm text-muted-foreground">Years Experience</p>
-              </div>
-              <div>
-                <p className="text-3xl font-serif font-medium text-primary">50+</p>
-                <p className="text-sm text-muted-foreground">Projects Delivered</p>
-              </div>
-              <div>
-                <p className="text-3xl font-serif font-medium text-primary">4</p>
-                <p className="text-sm text-muted-foreground">Industries Served</p>
-              </div>
-            </div>
           </div>
 
           {/* Right Column - Visual Element */}

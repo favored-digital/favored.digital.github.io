@@ -40,6 +40,8 @@ export function About() {
                 <span>LinkedIn</span>
                 <ExternalLink className="h-3 w-3 opacity-0 group-hover:opacity-100 transition-opacity" />
               </Link>
+              <img src="https://favored-digital.github.io/favored.digital.github.io/headshot.jpg">
+              </img>
             </div>
           </div>
 
@@ -61,7 +63,7 @@ export function About() {
             </div>
 
             <p className="text-muted-foreground leading-relaxed">
-              I&apos;ve had the privilege of working with diverse clients — from e-commerce 
+              I&apos;ve had the privilege of working for diverse companies and clients — from e-commerce 
               brands looking to scale their online presence, to non-profit organizations 
               seeking to amplify their impact, government agencies requiring compliance-focused 
               solutions, and couples wanting to create memorable wedding experiences online.

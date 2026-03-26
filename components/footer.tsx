@@ -65,17 +65,6 @@ export function Footer() {
           <p className="text-sm text-muted-foreground">
             &copy; {new Date().getFullYear()} favored.digital. All rights reserved.
           </p>
-          <p className="text-sm text-muted-foreground">
-            Designed & Developed by{" "}
-            <Link
-              href="https://www.tianahorn.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-primary hover:underline"
-            >
-              Tiana Horn
-            </Link>
-          </p>
         </div>
       </div>
     </footer>
