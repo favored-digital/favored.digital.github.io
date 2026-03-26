@@ -14,6 +14,7 @@ export function About() {
                 About
               </p>
             </div>
+       
             <h2 className="text-3xl md:text-4xl font-serif font-medium leading-tight text-balance mb-6">
               Meet the developer behind your next digital success
             </h2>
@@ -40,8 +41,19 @@ export function About() {
                 <span>LinkedIn</span>
                 <ExternalLink className="h-3 w-3 opacity-0 group-hover:opacity-100 transition-opacity" />
               </Link>
-              <img src="https://favored-digital.github.io/favored.digital.github.io/headshot.jpg">
-              </img>
+            </div>
+            
+            {/* Profile Picture */}
+              <div className="relative mb-8">
+              <div className="aspect-[4/5] w-full max-w-sm rounded-2xl bg-card border border-border overflow-hidden">
+                <img
+                  src="https://favored-digital.github.io/favored.digital.github.io/headshot.jpg"
+                  alt="Tiana Horn - Lead Developer at favored.digital"
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              {/* Decorative accent */}
+              <div className="absolute -bottom-3 -right-3 w-24 h-24 rounded-2xl -z-10" />
             </div>
           </div>
 

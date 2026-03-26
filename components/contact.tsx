@@ -63,7 +63,7 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Email</p>
-                  <p className="font-medium">hello@favored.digital</p>
+                  <p className="font-medium">tiana@favored.digital</p>
                 </div>
               </div>
               <div className="flex items-center gap-4 p-4 rounded-lg bg-card border border-border">
