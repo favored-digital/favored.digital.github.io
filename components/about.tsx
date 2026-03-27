@@ -47,7 +47,7 @@ export function About() {
               <div className="relative mb-8 mt-8">
               <div className="aspect-[4/5] w-full max-w-sm rounded-2xl bg-card border border-border overflow-hidden">
                 <img
-                  src="https://favored-digital.github.io/favored.digital.github.io/headshot.jpg"
+                  src="https://favored.digital/headshot.jpg"
                   alt="Tiana Horn - Lead Developer at favored.digital"
                   className="w-full h-full object-cover"
                 />
